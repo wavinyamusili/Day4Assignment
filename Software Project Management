@@ -1,0 +1,65 @@
+Why is timely delivery crucial in software project management, and how can project managers ensure deadlines are met?
+Timely delivery ensures customer satisfaction, maintains competitive advantage, and avoids cost overruns.
+Strategies:
+Set realistic deadlines based on workload and complexity.
+Use Agile or Scrum for iterative progress tracking.
+Prioritize tasks with a Work Breakdown Structure (WBS).
+Monitor progress using Gantt charts or Kanban boards.
+Identify risks early and have contingency plans.
+
+How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Helps allocate resources efficiently and prevents financial strain.
+Strategies:
+Clearly define scope and avoid scope creep.
+Use cost estimation models (e.g., COCOMO, parametric).
+Regularly monitor expenses and compare with the budget.
+Use Agile budgeting for flexibility.
+Optimize resource allocation (e.g., cloud services, outsourcing).
+
+Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+Agile                                             Waterfall
+Iterative, flexible                               Sequential, structured
+Adapts to changes                                 Rigid, changes are costly
+Continuous feedback                               Limited to initial/final stages
+
+In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile is best for dynamic projects like SaaS applications, AI solutions, and mobile apps where requirements change frequently.
+Waterfall is better for fixed-scope projects like ERP systems, banking software, and government projects requiring clear documentation and approvals.
+
+What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+QA prevents defects, improves security, and enhances user experience.
+Methods:
+Automated & manual testing (unit, integration, system, and UAT).
+Continuous Integration/Continuous Deployment (CI/CD).
+Code reviews & static analysis.
+User testing & feedback loops.
+
+How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Prevents scope creep and sets clear expectations.
+Work Breakdown Structure (WBS):
+A hierarchical decomposition of tasks, making large projects manageable.
+Helps in resource allocation, progress tracking, and risk assessment.
+
+What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+Ensures task dependencies are clear and deadlines are realistic.
+Gantt Charts visualize tasks over time, showing progress, dependencies, and deadlines.
+
+What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Identify pain points your target audience faces (e.g., inefficiencies, security risks, high costs).
+
+How can clearly defining the problem help in developing a more effective software solution?
+Ensures solutions are user-centric, reducing wasted effort on unnecessary features.
+
+How would you describe your software solution in a way that captures its essence without diving into technical details?
+Use a problem-solution-benefit format:
+"Our software simplifies remote healthcare by connecting patients with doctors instantly, reducing wait times and improving accessibility."
+
+What are the main features or functionalities that make your software stand out?
+Identify key differentiators like AI-powered automation, seamless integrations, enhanced security, or user-friendly design.
+
+What data is available regarding the market size and growth potential for your software?
+Use sources like Statista, Gartner, and market research reports to analyze industry trends
+
+How can understanding market trends inform your software’s positioning and development?
+Helps in feature prioritization, pricing strategy, and marketing positioning.
+Example: AI and automation trends influence the development of smart assistants and predictive analytics.
